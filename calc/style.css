@@ -1,0 +1,18 @@
+body {
+    background-color: #161616;
+}
+
+.result {
+    color: aliceblue;
+}
+
+.center {
+    text-align: center;
+  }
+
+
+.plus, .minus, .multiply, .divide, .num1, .num2, .num3, .num4, .num5, .num6, .num7, .num8, .num9{
+    width: 39px;
+    height: 39px;
+    font-weight: 1000;
+}
