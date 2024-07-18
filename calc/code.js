@@ -26,8 +26,6 @@ const divide = e => {
     ResultValue = Num1Value / Num2Value
     result.textContent = ResultValue}
 
-
-    
 const PlusBtn = document.getElementById('plus')
 PlusBtn.addEventListener('click', plus)
 
